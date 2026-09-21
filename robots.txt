@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jonesgertrude63-ship-it.github.io/zxqiju-ranking/sitemap.xml
+Sitemap: https://zxqiju.top/sitemap.xml
